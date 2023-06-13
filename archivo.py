@@ -1,4 +1,4 @@
 #Hola a todos
 import numpy as np
-
-import matplotlib.pyplot as plt
+#Otra persona
+import cv2
